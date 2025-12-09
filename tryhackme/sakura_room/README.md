@@ -24,5 +24,5 @@ and private key. It ensures secure communication by allowing only the wanted
 recicipients to read the conversations.
 - then we copy paste this text into _cyberchef.org_ and select __From Base64__
 recipe.
-- ![screenshot from cyberchef](images/attacker_email.org) 
+- ![screenshot from cyberchef](images/attacker_email.png) 
 - and we got the attacker's email: ~~SakuraSnowAngel83@protonmail.com~~
