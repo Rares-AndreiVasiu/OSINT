@@ -8,4 +8,4 @@
 image.
 - then perform a simple _strings sakurapwnedletter.svg | head_ command in your
 terminal emulator of choice.
-- ![screenshot for results][./images/attacker_username.png]
+- ![screenshot for results][images/attacker_username.png]
